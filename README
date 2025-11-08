@@ -1,0 +1,67 @@
+# 🧠 Reinforcement Learning Journey
+
+This repository documents my **13-week journey learning and implementing Reinforcement Learning (RL)** — combining my **Braude College course (Fall 2025)** with the **University of Alberta’s “Fundamentals of Reinforcement Learning” (Coursera)** specialization.
+
+The goal of this repo is to build a **complete, hands-on RL portfolio** — progressing from foundational concepts like *multi-armed bandits* to advanced *deep reinforcement learning and continuous control* algorithms (DQN, Actor–Critic, DDPG, TD3).
+
+---
+
+## 🎯 Objectives
+
+- Understand the **core principles of RL** — agent–environment loop, rewards, policies, and value functions.  
+- Implement and experiment with **key RL algorithms** using **Python, NumPy, PyTorch, and Gymnasium**.  
+- Align theory (Sutton & Barto, Alberta modules) with **Braude’s academic lectures and project work**.  
+- Build a **modular, week-by-week structure** to showcase learning progress and code clarity.  
+- Conclude with a **final capstone project**: *AutoRacer (DDPG → TD3)* — a continuous-control RL agent.
+
+---
+
+## 🧱 Repository Structure (Growing Weekly)
+
+```
+reinforcement-learning-journey/
+│
+├── week1_bandits/
+│   ├── week1_bandits.ipynb        ← 10-Armed Bandit experiment (ε-greedy, optimistic init, UCB)
+│   ├── README.md                  ← Theory summary + experiment results
+│   └── plots/                     ← Generated figures and comparisons
+│
+├── assets/                        ← Diagrams, figures, presentation visuals (later)
+│
+├── requirements.txt               ← Dependencies for all notebooks
+└── README.md                      ← (You’re here)
+```
+
+Each week will be added as a new folder (e.g. `week2_mdp_gridworld`, `week3_dynamic_programming`, …),  
+following the same consistent format — notebook, sub-README, and plots/results.
+
+---
+
+## 📚 Learning Sources
+
+- **📖 Sutton & Barto (2018)** – *Reinforcement Learning: An Introduction*  
+- **🎓 University of Alberta (Coursera)** – *Fundamentals of RL Specialization*  
+- **🧑‍🏫 Braude College (Elie Abboud)** – *Reinforcement Learning, Fall 2025*  
+- **🎮 DeepMind x UCL Lectures (David Silver)** – foundational RL lecture series  
+
+---
+
+## 🚀 Current Progress
+
+| Week | Topic                     | Focus                                | Status        |
+|------|--------                   |--------                              |--------       |
+| 1    | Multi-Armed Bandits       | ε-Greedy, Incremental Updates, UCB   | ✅ Completed  |
+| 2    | Markov Decision Processes | Gridworld, State-Value Visualization | ⏳ Upcoming   |
+| 3    | Dynamic Programming       | Policy & Value Iteration             | 🔜 Planned    |
+
+---
+
+## 💡 Author
+
+**Ahmad Tawil**  
+🎓 Software Engineering @ Braude College  
+💻 AI & Machine Learning Developer  
+
+---
+
+*This repository evolves weekly — documenting both theoretical understanding and hands-on experiments in Reinforcement Learning.*
