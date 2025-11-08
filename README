@@ -48,11 +48,11 @@ following the same consistent format — notebook, sub-README, and plots/results
 
 ## 🚀 Current Progress
 
-| Week | Topic                     | Focus                                | Status        |
-|------|--------                   |--------                              |--------       |
-| 1    | Multi-Armed Bandits       | ε-Greedy, Incremental Updates, UCB   | ✅ Completed  |
-| 2    | Markov Decision Processes | Gridworld, State-Value Visualization | ⏳ Upcoming   |
-| 3    | Dynamic Programming       | Policy & Value Iteration             | 🔜 Planned    |
+| Week | Topic                     | Focus                                | Status      |
+|------|--------                   |--------                              |--------     |
+| 1    | Multi-Armed Bandits       | ε-Greedy, Incremental Updates, UCB   |  Completed  |
+| 2    | Markov Decision Processes | Gridworld, State-Value Visualization |  Upcoming   |
+| 3    | Dynamic Programming       | Policy & Value Iteration             |  Planned    |
 
 ---
 
